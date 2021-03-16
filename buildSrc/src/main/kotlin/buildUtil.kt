@@ -1,0 +1,1 @@
+import org.jetbrains.kotlin.gradle.dsl.KotlinProjectExtension // <- this is an error
